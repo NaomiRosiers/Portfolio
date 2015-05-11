@@ -71,7 +71,7 @@ iframe {
 	margin: 1em 4em 1em 4em;
 }
 
-.schilderwerk {
+.fotokader {
 	border: 0.2em solid white;
 	border-radius: 20% 0% 20% 0%;
 }
@@ -94,6 +94,13 @@ h3 {
 	color: #3B6763;
 	border-bottom: 0.05em solid #3B6763;
 	text-align: right;
+	margin-bottom: 0.5em;
+}
+
+h4 {
+	font-size: 1.4em;
+	color: white;
+	border-bottom: 0.05em solid white;
 	margin-bottom: 0.5em;
 }
 
@@ -130,29 +137,12 @@ p {
 
 /* Vakjes & Posts */
 
-.vak1, .vak3 {
-	width: 8em;
-	height: 8em;
-	background: purple;
-	float: left;
-	color: white;
-	margin: 0.5em;
-}
-
-.vak2 {
-	width: 8em;
-	height: 8em;
-	background: purple;
-	float: right;
-	color: white;
-	margin: 0.5em;
-}
-
-.post1, .post2, .post3 {
+.post {
 	background: #3B6763;
 	padding: 0.3em;
 	border: 0.2em solid white;
 	border-radius: 5% 0% 5% 0%;
+	margin-bottom: 0.5em;
 
 }
 

@@ -121,68 +121,56 @@ p {
 .vak1 {
 	width: 8em;
 	height: 8em;
-	background: yellow;
 	float: left;
 }
 
 .vak2 {
-	width: 8em;
-	height: 8em;
-	background: orange;
+	width: 26.6%;
 	float: left;
 }
 
 .vak3 {
 	width: 8em;
 	height: 8em;
-	background: green;
 	float: left;
 }
 
 .vak4 {
-	width: 8em;
-	height: 8em;
-	background: blue;
+	width: 9.5%;
 	float: left;
 }
 .vak5 {
-	width: 8em;
+	width: 9em;
 	height: 8em;
-	background: purple;
 	float: left;
 }
 
 .vak6 {
 	width: 8em;
-	height: 8em;
-	background: pink;
+	height: 5em;
 	float: left;
 }
 
 .vak7 {
 	width: 8em;
 	height: 8em;
-	background: black;
 	float: left;
 }
 
 .vak8 {
 	width: 8em;
 	height: 8em;
-	background: violet;
 	float: left;
 }
 
 .vak9 {
 	width: 8em;
 	height: 8em;
-	background: white;
 	float: left;
 }
 .vak10 {
 	width: 8em;
 	height: 8em;
-	background: indigo;
 	float: left;
 }
 
